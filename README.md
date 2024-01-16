@@ -1,3 +1,8 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Kevin!+%F0%9F%91%8B;Full+Stack+Developer;Diseñadora+Gráfica;Problem+Solver;Open-Source;Entusiasta" alt="Headline" />
+  
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+
 <h1 align="center">Hi 👋, I'm Kevin Alfonzo</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
